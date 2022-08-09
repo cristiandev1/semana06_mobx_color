@@ -23,6 +23,7 @@ class _HomePageState extends State<HomePage> {
         return Scaffold(
           appBar: AppBar(
             backgroundColor: _homeStore.pickerColor,
+            elevation: 0,
             title: const Text('Example Colors With Mobx'),
           ),
           body: Column(

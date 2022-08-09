@@ -20,3 +20,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+//https://gitlab.com/raro-academy-flutter-edicao-02/playground/exercicio-mobx-color
